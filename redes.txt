@@ -1,0 +1,10 @@
+Pauses number: 3
+  >> Average Time Pauses: 6.4
+  >> Standard deviation: 2.11
+  >> Variance: 4.46
+Average QI: 6.31
+  >> Standard deviation: 3.8
+  >> Variance: 14.43
+Average QI distance: 1.13
+  >> Standard deviation: 2.08
+  >> Variance: 4.33
